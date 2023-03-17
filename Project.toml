@@ -1,0 +1,9 @@
+name = "KuMoMinCostFlow"
+uuid = "f71cce71-6179-4eeb-bcd0-1cfb490438fc"
+authors = ["Azzaare<jf@baffier.fr>",]
+version = "0.1.0"
+
+[deps]
+
+[compat]
+julia = "1.9"
