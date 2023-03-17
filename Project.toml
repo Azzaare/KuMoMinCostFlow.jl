@@ -1,9 +1,15 @@
 name = "KuMoMinCostFlow"
 uuid = "f71cce71-6179-4eeb-bcd0-1cfb490438fc"
-authors = ["Azzaare<jf@baffier.fr>",]
+authors = ["Azzaare<jf@baffier.fr>"]
 version = "0.1.0"
 
 [deps]
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+KuMo = "b681f84e-bd48-4deb-8595-d3e0ff1e4a55"
+MathOptInterface = "b8f27783-ece8-5eb3-8dc8-9495eed66fee"
+SimpleTraits = "699a6c99-e7fa-54fc-8d76-47d257e15c1d"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 
 [compat]
 julia = "1.9"
